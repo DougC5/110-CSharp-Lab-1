@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/user1/Documents/SDGKUFullStack/110 ASP_NET/lab1/Restaurant/Restaurante.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
